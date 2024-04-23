@@ -6,7 +6,7 @@ github:  'https://github.com/RonghaiHe/RobustCL'
 excerpt: 'This paper introduces a method to accurately locate robots under challenging scenarios.'
 date: 2024-01-01
 venue: 'IEEE Robotics and Automation Letters'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://github.com/YatsenRobot/yunxiao-shan.github.io/blob/master/assets/Robust_Cooperative_Localization_With_Failed_Communication_and_Biased_Measurements.pdf'
 citation: '
 @ARTICLE{10423111,
   author={He, Ronghai and Shan, Yunxiao and Huang, Kai},
