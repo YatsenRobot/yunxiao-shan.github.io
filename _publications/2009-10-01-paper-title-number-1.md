@@ -3,7 +3,7 @@ title: "Robust Cooperative Localization with Failed Communication and Biased Mea
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper introduces a cl method to accurately locate robots under challenging scenarios.'
-date:2024.01
+date: '2024.01'
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: '
