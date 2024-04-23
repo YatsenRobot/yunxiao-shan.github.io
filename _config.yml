@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yatsenrobot.github.io/yunxiao-shan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Let's embrace a future filled with the uncertainties of a robotic world."
   location         : "China"
   employer         : "Sun Yat-sen University"
-  uri              : # https://scholar.google.com/citations?user=u74Oq2IAAAAJ&hl=zh-CN
+  uri              : https://yatsenrobot.github.io/yunxiao-shan.github.io/
   email            : "shanyx@mail.sysu.edu.cn" 
 
   # Academic websites
