@@ -1,6 +1,4 @@
-这是一个经过修饰的Markdown格式版本，我已对其进行排序并添加了必要的格式。😊 注意，Markdown不支持特殊符号，如星号，因为这些符号在Markdown中有特殊的格式化功能。
 
-```markdown
 # Publications
 
 ## 2024
