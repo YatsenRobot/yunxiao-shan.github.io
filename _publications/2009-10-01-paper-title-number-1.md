@@ -14,7 +14,7 @@ citation: '
   year={2024},
   volume={9},
   number={3},
-  pages={2997-3004}
+  pages={2997-3004},
   }
 '
 ---
