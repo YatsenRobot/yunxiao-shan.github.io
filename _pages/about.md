@@ -26,6 +26,7 @@ In terms of academia, he serves as an early career editorial board member of the
 3. **Multi-Robot Cooperative Positioning**
    - Cooperative positioning and cooperative SLAM of multiple robots
    - Operating under communication and observation challenging scenarios
+
 ## Master/PhD Enrollment Notice
 
 I warmly welcome students interested in robotics from interdisciplinary fields such as Mathematics, Automation, and Electro-Mechanics, not just from Computer Science. 
