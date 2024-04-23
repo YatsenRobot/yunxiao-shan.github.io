@@ -26,7 +26,7 @@ In terms of academia, he serves as an early career editorial board member of the
 3. **Multi-Robot Cooperative Positioning**
    - Cooperative positioning and cooperative SLAM of multiple robots
    - Operating under communication and observation challenging scenarios
-## [Master/PhD Enrollment Notice] 
+## Master/PhD Enrollment Notice
 
 I warmly welcome students interested in robotics from interdisciplinary fields such as Mathematics, Automation, and Electro-Mechanics, not just from Computer Science. 
 
@@ -53,6 +53,6 @@ to join our research group. We are open to students across all years and majors.
 
 Even for those not based on the Zhuhai campus, our group can provide for travel costs between other campuses and Zhuhai, as well as accommodation expenses in Zhuhai. Outstanding performers might also be eligible for additional living allowances.
 
-**Graduate Employment**: 
+## Graduate Employment
 Our first batch of graduates have primarily found employment with leading companies such as Tencent, Li Auto, and numerous top-tier autonomous driving companies.
 
