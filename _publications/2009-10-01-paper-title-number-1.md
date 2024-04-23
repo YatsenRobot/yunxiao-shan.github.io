@@ -2,7 +2,7 @@
 ---
 title: "Robust Cooperative Localization with Failed Communication and Biased Measurements"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+github:  'https://github.com/RonghaiHe/RobustCL'
 excerpt: 'This paper introduces a method to accurately locate robots under challenging scenarios.'
 date: 2024-01-01
 venue: 'IEEE Robotics and Automation Letters'
