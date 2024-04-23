@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: Dr. Yunxiao Shan, an Associate Professor in the School of Artificial Intelligence at Sun Yat-sen University. 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Yunxiao Shan graduated with a Master's degree from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences in 2010, and received his Ph.D. from Wuhan University in 2018. Between 2015 and 2016, he undertook joint training at the School of Computer Science, Rutgers University, USA. From 2018 to 2021, he conducted research on robotics at the Institute of Unmanned Systems, School of Computer Science, Sun Yat-sen University.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+In terms of academia, he serves as an early career editorial board member of the SCI journal CMC - Computers Materials & Continua. He has published over 20 high-level papers, including in journals like JFR, TVT, ITS, TIV, TCSVT, etc. His deep research work involves planning and control of unmanned driving (mobile robots) facing uncertain environments and surface perception. He has received support for multiple national and provincial-level projects in the field of robotics, and the current contract amount exceeds 5 million.
 
 A data-driven personal website
 ======
