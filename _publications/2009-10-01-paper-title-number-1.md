@@ -2,20 +2,20 @@
 title: "Robust Cooperative Localization with Failed Communication and Biased Measurements"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This paper introduces a cl method to accurately locate robots under challenging scenarios.'
+date:2024.01
+venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: '@ARTICLE{10423111,
+citation: '
+@ARTICLE{10423111,
   author={He, Ronghai and Shan, Yunxiao and Huang, Kai},
   journal={IEEE Robotics and Automation Letters}, 
   title={Robust Cooperative Localization With Failed Communication and Biased Measurements}, 
   year={2024},
   volume={9},
   number={3},
-  pages={2997-3004},
-  keywords={Robots;Robot kinematics;Weight measurement;Robot sensing systems;Location awareness;Estimation;Time measurement;Cooperative localization;failed communication;biased measurements},
-  doi={10.1109/LRA.2024.3362682}}
+  pages={2997-3004}
+  }
 '
 ---
 
