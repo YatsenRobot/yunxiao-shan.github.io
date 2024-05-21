@@ -6,7 +6,7 @@ excerpt: ' IEEE Transaction on Intelligent Vehicle'
 date: 2024-02-01
 venue: 'IEEE Transaction on Intelligent Vehicle'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10360316'
-![image](https://github.com/YatsenRobot/yunxiao-shan.github.io/blob/master/images/TIV2.gif)
+avatar:"TIV2.gif"
 citation: '@ARTICLE{10360316,
   author={Shan, Yunxiao and Fu, Yao and Chen, Xiangchun and Lin, Hongquan and Zhang, Ziquan and Lin, Jun and Huang, Kai},
   journal={IEEE Transactions on Intelligent Vehicles}, 
