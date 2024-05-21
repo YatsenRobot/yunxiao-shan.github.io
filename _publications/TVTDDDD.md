@@ -1,21 +1,23 @@
 ---
-title: "A Reinforcement Learning-Based Adaptive Path Tracking Approach for Autonomous Driving"
+title: "Multisensor fusion-based maritime ship object detection method for autonomous surface vehicles"
 collection: publications
 permalink: /publication/TVTDDDD
-excerpt: ' IEEE Transactions on Vehicular Technology'
-date: 2020-10-28
-venue: 'IEEE Transactions on Vehicular Technology'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9161291'
-citation: '@article{shan2020reinforcement,
-  title={A reinforcement learning-based adaptive path tracking approach for autonomous driving},
-  author={Shan, Yunxiao and Zheng, Boli and Chen, Longsheng and Chen, Long and Chen, De},
-  journal={IEEE Transactions on Vehicular Technology},
-  volume={69},
-  number={10},
-  pages={10581--10595},
-  year={2020},
-  publisher={IEEE}
-}
+excerpt: ' ournal of Field Robotics'
+date: 2023-11-28
+venue: 'Journal of Field Robotics'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22273'
+citation: ''@article{https://doi.org/10.1002/rob.22273,
+author = {Zhang, Qi and Shan, Yunxiao and Zhang, Ziquan and Lin, Hongquan and Zhang, Yunfei and Huang, Kai},
+title = {Multisensor fusion-based maritime ship object detection method for autonomous surface vehicles},
+journal = {Journal of Field Robotics},
+volume = {41},
+number = {3},
+pages = {493-510},
+keywords = {obstacle detection, unmanned surface vehicle},
+doi = {https://doi.org/10.1002/rob.22273},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22273},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.22273},
+year = {2024}
   '
 ---
-The path tracking system is a crucial component in fully autonomous vehicles. While many methods provide stateof-the-art tracking performance, they tend to emphasize tracking accuracy for safety, at the price of ride quality. Although methods based on a dynamic model and optimization theory guarantee improved tracking performance, a high-fidelity model is unavailable in most autonomous systems, and the complex optimization process may increase the computational burden. Therefore, for practical, real-life systems, it is urgent to develop a tracking method with a simple, effective control framework for real-time implementation. Moreover, the tracking approach should adaptively balance between tracking accuracy and the passenger experience. With that in mind, a simple tracking scheme with adaptive lateral and longitudinal control approaches is proposed. For lateral control, a pure pursuit (PP) geometric controller is used as a basic tracking framework to design the steering method. A detailed analysis shows that PP inefficiently reduces the lateral error. A PID controller is integrated with PP by a customized reinforcement learning model to better deal with tracking error by trading off between PP and PID. Moreover, a rough-to-fine velocity adaptation method is proposed to adjust the speed according to the geometry of the predefined path and the real-time tracking feedback. The proposed controlling approach is tested in different path tracking scenarios. The results show that the approach can adaptively change the weights of PP and PID to maintain a balance between tracking error (within ±0.5 m) and jerk (within ±0.5 m/s 3 ),and can adapt to high-speed scenarios (up to 80 km/h). Finally, a field test is carried out to validate the practicability.
+Abstract Autonomous surface vehicles face the challenge of accurately detecting nearby ships in the complex and ever-changing maritime environment, which is vastly different from land areas. To address this issue, we propose an image-based multisensor fusion object detection method that combines Light Detection and Rangings and cameras. Since point clouds have poor semantics, our method primarily relies on images, with point clouds used to support image detection. Our image detection scheme employs a tracking-assisted detection method that leverages historical information to compensate for possible detection failures. Additionally, we designed a confidence-association-based fusion strategy to determine the final targets among the candidates. We conducted field experiments in an open-sea area to demonstrate the accuracy and robustness of our method. The results of these experiments showed that our method is highly accurate and robust in challenging maritime scenarios. Our code and data set will be released on https://github.com/flakeice/mssd.
