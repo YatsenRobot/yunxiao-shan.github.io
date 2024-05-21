@@ -17,5 +17,6 @@ citation: '@ARTICLE{10360316,
   keywords={Roads;Point cloud compression;Laser radar;Cameras;Three-dimensional displays;Sensors;Deep learning;Semantic segmentation;traversable regions identification;unmanned ground vehicles(UGVs)},
   doi={10.1109/TIV.2023.3342801}}
   '
+
 ---
 Traversable regions identification technology plays a crucial role in ensuring safe driving for unmanned ground vehicles in off-road environments. However, the unstructured terrain makes it challenging to identify traversable regions. To enhance the safety of off-road driving, a LiDAR-based traversable regions identification method is proposed in this paper. Firstly, a deep learning-based neural network is used to segment the traversable regions, obstacles, and vegetation. Next, an improved Gaussian Process(GP)-based modeling method is designed to model the traversable regions with a leading speed, and the obstacle point clouds are refined with a composite filter. Finally, field experiments have demonstrated that our proposed scheme outperforms existing state-of-the-art (SOTA) traditional and deep-learning-based methods in accurately identifying both road regions and obstacles, with precision improvements of up to 14% and recall improvements of up to 9%.
