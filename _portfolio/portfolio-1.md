@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Identification of traversability of off-road environment"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/tiv2.gif'>"
 collection: portfolio
 ---
