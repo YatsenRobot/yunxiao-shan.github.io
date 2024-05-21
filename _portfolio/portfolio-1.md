@@ -1,6 +1,6 @@
 ---
 title: "Identification of traversability of off-road environment"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/site-logo.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://github.com/YatsenRobot/yunxiao-shan.github.io/blob/master/images/500x300.png'>"
 collection: portfolio
 ---
 
