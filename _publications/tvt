@@ -1,22 +1,28 @@
----
-title: "LiDAR based Traversable Regions Identification Method for Off-road UGV Driving"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: ' IEEE Transaction on Intelligent Vehicle'
-date: 2024-02-01
-venue: 'IEEE Transaction on Intelligent Vehicle'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10360316'
-citation: '@ARTICLE{10360316,
-  author={Shan, Yunxiao and Fu, Yao and Chen, Xiangchun and Lin, Hongquan and Zhang, Ziquan and Lin, Jun and Huang, Kai},
-  journal={IEEE Transactions on Intelligent Vehicles}, 
-  title={LiDAR Based Traversable Regions Identification Method for Off-Road UGV Driving}, 
-  year={2024},
-  volume={9},
-  number={2},
-  pages={3544-3557},
-  keywords={Roads;Point cloud compression;Laser radar;Cameras;Three-dimensional displays;Sensors;Deep learning;Semantic segmentation;traversable regions identification;unmanned ground vehicles(UGVs)},
-  doi={10.1109/TIV.2023.3342801}}
-  '
 
 ---
-Traversable regions identification technology plays a crucial role in ensuring safe driving for unmanned ground vehicles in off-road environments. However, the unstructured terrain makes it challenging to identify traversable regions. To enhance the safety of off-road driving, a LiDAR-based traversable regions identification method is proposed in this paper. Firstly, a deep learning-based neural network is used to segment the traversable regions, obstacles, and vegetation. Next, an improved Gaussian Process(GP)-based modeling method is designed to model the traversable regions with a leading speed, and the obstacle point clouds are refined with a composite filter. Finally, field experiments have demonstrated that our proposed scheme outperforms existing state-of-the-art (SOTA) traditional and deep-learning-based methods in accurately identifying both road regions and obstacles, with precision improvements of up to 14% and recall improvements of up to 9%.
+title: "Multisensor fusion-based maritime ship object detection method for autonomous surface vehicles"
+collection: publications
+permalink: Journal of Field Robotics
+excerpt: 'Journal of Field Robotics'
+date: '2023-11-28'
+venue: 'Journal of Field Robotics'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22273'
+citation: '
+@article{https://doi.org/10.1002/rob.22273,
+author = {Zhang, Qi and Shan, Yunxiao and Zhang, Ziquan and Lin, Hongquan and Zhang, Yunfei and Huang, Kai},
+title = {Multisensor fusion-based maritime ship object detection method for autonomous surface vehicles},
+journal = {Journal of Field Robotics},
+volume = {41},
+number = {3},
+pages = {493-510},
+keywords = {obstacle detection, unmanned surface vehicle},
+doi = {https://doi.org/10.1002/rob.22273},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22273},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.22273},
+year = {2024}
+}
+
+
+'
+---
+Abstract Autonomous surface vehicles face the challenge of accurately detecting nearby ships in the complex and ever-changing maritime environment, which is vastly different from land areas. To address this issue, we propose an image-based multisensor fusion object detection method that combines Light Detection and Rangings and cameras. Since point clouds have poor semantics, our method primarily relies on images, with point clouds used to support image detection. Our image detection scheme employs a tracking-assisted detection method that leverages historical information to compensate for possible detection failures. Additionally, we designed a confidence-association-based fusion strategy to determine the final targets among the candidates. We conducted field experiments in an open-sea area to demonstrate the accuracy and robustness of our method. The results of these experiments showed that our method is highly accurate and robust in challenging maritime scenarios. Our code and data set will be released on https://github.com/flakeice/mssd.
