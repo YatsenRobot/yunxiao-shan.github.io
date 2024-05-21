@@ -3,7 +3,7 @@ title: "LiDAR based Traversable Regions Identification Method for Off-road UGV D
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ' IEEE Transaction on Intelligent Vehicle'
-date: 2015-02-01
+date: 2024-02-01
 venue: 'IEEE Transaction on Intelligent Vehicle'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10360316'
 citation: '@ARTICLE{10360316,
