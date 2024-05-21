@@ -2,8 +2,8 @@
 ---
 title: "Multisensor fusion-based maritime ship object detection method for autonomous surface vehicles"
 collection: publications
-permalink: Journal of Field Robotics
-excerpt: 'Journal of Field Robotics'
+permalink: https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22273
+excerpt: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22273'
 date: '2023-11-28'
 venue: 'Journal of Field Robotics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22273'
