@@ -6,7 +6,7 @@ excerpt: ' ournal of Field Robotics'
 date: 2023-11-28
 venue: 'Journal of Field Robotics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22273'
-citation: ''@article{https://doi.org/10.1002/rob.22273,
+citation: '@article{https://doi.org/10.1002/rob.22273,
 author = {Zhang, Qi and Shan, Yunxiao and Zhang, Ziquan and Lin, Hongquan and Zhang, Yunfei and Huang, Kai},
 title = {Multisensor fusion-based maritime ship object detection method for autonomous surface vehicles},
 journal = {Journal of Field Robotics},
