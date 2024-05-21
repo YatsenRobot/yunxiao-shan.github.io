@@ -2,7 +2,7 @@
 ---
 title: "Multisensor fusion-based maritime ship object detection method for autonomous surface vehicles"
 collection: publications
-permalink: /publication/tvt
+permalink: /publication/JFR
 excerpt: 'Journal of Field Robotics'
 date: 2023-11-28
 venue: 'Journal of Field Robotics'
