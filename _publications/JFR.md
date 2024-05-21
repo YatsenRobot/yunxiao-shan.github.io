@@ -1,6 +1,6 @@
 
 ---
-title: "A Reinforcement Learning-Based Adaptive Path Tracking Approach for Autonomous Driving"
+title: "A Reinforcement Learning-Based Adaptive Path Tracking Approach for Autonomous Driving111"
 collection: publications
 permalink: /publication/JFR
 excerpt: ' IEEE Transactions on Vehicular Technology'
