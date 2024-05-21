@@ -2,7 +2,7 @@
 ---
 title: "A Reinforcement Learning-Based Adaptive Path Tracking Approach for Autonomous Driving"
 collection: publications
-permalink: /publication/TVT
+permalink: /publication/JFR
 excerpt: ' IEEE Transactions on Vehicular Technology'
 date: 2020-10-28
 venue: 'IEEE Transactions on Vehicular Technology'
