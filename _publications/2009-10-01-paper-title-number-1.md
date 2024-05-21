@@ -1,23 +1,28 @@
 
 ---
-title: "Robust Cooperative Localization with Failed Communication and Biased Measurements"
+title: "Multisensor fusion-based maritime ship object detection method for autonomous surface vehicles"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper introduces a cl method to accurately locate robots under challenging scenarios.'
-date: '2024.01'
-venue: 'IEEE Robotics and Automation Letters'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: Journal of Field Robotics
+excerpt: 'Journal of Field Robotics'
+date: '2023-11-28'
+venue: 'Journal of Field Robotics'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22273'
 citation: '
-@ARTICLE{10423111,
-  author={He, Ronghai and Shan, Yunxiao and Huang, Kai},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={Robust Cooperative Localization With Failed Communication and Biased Measurements}, 
-  year={2024},
-  volume={9},
-  number={3},
-  pages={2997-3004},
-  }
+@article{https://doi.org/10.1002/rob.22273,
+author = {Zhang, Qi and Shan, Yunxiao and Zhang, Ziquan and Lin, Hongquan and Zhang, Yunfei and Huang, Kai},
+title = {Multisensor fusion-based maritime ship object detection method for autonomous surface vehicles},
+journal = {Journal of Field Robotics},
+volume = {41},
+number = {3},
+pages = {493-510},
+keywords = {obstacle detection, unmanned surface vehicle},
+doi = {https://doi.org/10.1002/rob.22273},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22273},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.22273},
+year = {2024}
+}
+
+
 '
 ---
-
-Cooperative Localization (CL) plays a crucial role in achieving precise localization without relying on localization sensors. However, the performance of CL can be significantly affected by failed communication and biased measurements. This letter presents a robust decentralized CL method that addresses these challenges effectively. To tackle the issue of communication failures, the proposed method adopts a multi-centralized framework that separates the measurement and communication processes. This decoupling allows each robot to utilize measurement information even in the absence of communication. Additionally, an reasonable state estimation method for other robots is proposed by approximating the actual input velocity model of unknown states and then propagating them using the motion model. To handle biased measurements, the method incorporates the M-estimation technique into the measurement update process. This technique weights the received measurements according to their reliability, mitigating the impact of biased measurements on the estimation accuracy. Simulation experiments have been conducted to validate the effectiveness of the proposed method in challenging scenarios.d in challenging scenarios.
+Abstract Autonomous surface vehicles face the challenge of accurately detecting nearby ships in the complex and ever-changing maritime environment, which is vastly different from land areas. To address this issue, we propose an image-based multisensor fusion object detection method that combines Light Detection and Rangings and cameras. Since point clouds have poor semantics, our method primarily relies on images, with point clouds used to support image detection. Our image detection scheme employs a tracking-assisted detection method that leverages historical information to compensate for possible detection failures. Additionally, we designed a confidence-association-based fusion strategy to determine the final targets among the candidates. We conducted field experiments in an open-sea area to demonstrate the accuracy and robustness of our method. The results of these experiments showed that our method is highly accurate and robust in challenging maritime scenarios. Our code and data set will be released on https://github.com/flakeice/mssd.
