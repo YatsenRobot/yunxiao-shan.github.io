@@ -3,7 +3,7 @@ title: "SiamFPN: A Deep Learning Method for Accurate and Real-Time Maritime Ship
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 date: 2024-02-17
-venue:'IEEE Transactions on Circuits and Systems for Video Technology'
+venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 paperurl: 'https://ieeexplore.ieee.org/document/9024119'
 citation: '@article{shan2020siamfpn,
   title={SiamFPN: A deep learning method for accurate and real-time maritime ship tracking},
